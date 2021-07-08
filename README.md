@@ -1,40 +1,99 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 10px 0;" alt="Crucian" src="https://cdn.discordapp.com/attachments/841728122633715743/862763004894380032/1625745841258.png">
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-# Cyan
-[![Language](https://img.shields.io/badge/Language-Node.js-red?style=for-the-badge&logo=node.js)][nodejs]
-[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github)](LICENSE)
-[![Repo Size](https://img.shields.io/github/languages/code-size/brblacky/Cyan?style=for-the-badge&label=SIZE&logo=github)](/../../)
-[![Codacy branch grade](https://img.shields.io/codacy/grade/a3f21df5a2c84e789dc94b0c66ce5aac/master?style=for-the-badge&label=QUALITY&logo=codacy)][codacy]
-[![Build Status](https://img.shields.io/github/issues/brblacky/Cyan?style=for-the-badge&logo=travis)][travis]
-[![Discord](https://img.shields.io/discord/374188444433252363?color=7289da&label=discord&logo=discord&logoColor=white&style=for-the-badge)][my server]
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/brblacky/Cyan">
+    <img src="https://i.imgur.com/aHjHbZh.png" alt="Pbot-plus" width="200" height="200">
+  </a>
 
-**Cyan** is my discord bot with simple structure based on [discord.js](https://github.com/discordjs/discord.js)
+  <h3 align="center">Cyan Bot</h3>
 
-Click [**Here**](https://discordapp.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) to invite Crucian to your server
+  <p align="center">
+    Cyan a powerful Discord Bot
+    <br />
+    <a href="https://proxity.ml/" target="_blank"><strong>» Explore the docs</strong></a>
+    <br />
+    <br />
+    <a href="https://discord.com/oauth2/authorize?client_id=&841716414053351486scope=bot&permissions=8">Invite Cyan (INVITE)</a>
+    ·
+    <a href="https://github.com/brblacky/Cyan/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/brblacky/Cyan/issues">Request Feature</a>
+  </p>
+</p>
 
-## Author
-Cyan © 
-Authored and maintained by [Blacky] And [Venom]
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
 
-> GitHub [**@**][my github]  
-> Twitter [**@**][my twitter]  
-> Discord **@Blacky#6618**  
+  </ol>
+</details>
 
-## Features
--  Music
--  Moderation
--  Fun
+<!-- ABOUT THE PROJECT -->
 
-## Requirements
--   Node >= 12
+## 🌀 About The Project
 
-## Supported Languages
--   English
+PBOT was born with the idea that it will restore order in your guild and protect attacks against your guild.
 
-## Install
-Check [setup.md](docs/setup.md)
-If you have trouble hosting, come to [**my server**][my server]
+<!-- ROADMAP -->
 
-## Commands
-Check [commands.md](docs/commands.md)
+## 🔸 Roadmap
 
+See the [open issues](https://github.com/brblacky/Cyan/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+
+## ✨ Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## 🔐 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## 📞 Contact
+
+`TEAM` Blacky — [@Br_blacky](https://twitter.com/Br_blacky)
+| Venom — []()
+<br/>
+## 💨 Run the projects
+Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
+
+[version-shield]: https://img.shields.io/github/package-json/v/brblacky/Cyan?style=for-the-badge
+[version-url]: https://github.com/brblacky/Cyan
+[contributors-shield]: https://img.shields.io/github/contributors/brblacky/Cyan.svg?style=for-the-badge
+[contributors-url]: https://github.com/brblacky/Cyan/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/brblacky/Cyan.svg?style=for-the-badge
+[forks-url]: https://github.com/brblacky/Cyan/network/members
+[stars-shield]: https://img.shields.io/github/stars/brblacky/Cyan.svg?style=for-the-badge
+[stars-url]: https://github.com/brblacky/Cyan/stargazers
+[issues-shield]: https://img.shields.io/github/issues/brblacky/Cyan.svg?style=for-the-badge
+[issues-url]: https://github.com/brblacky/Cyan/issues
+[license-shield]: https://img.shields.io/github/license/brblacky/Cyan.svg?style=for-the-badge
+[license-url]: https://github.com/brblacky/Cyan/blob/master/LICENSE
