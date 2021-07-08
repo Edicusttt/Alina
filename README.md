@@ -61,6 +61,14 @@ Cyan is an open source, fully customizable Discord bot that is constantly growin
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Cyan!
 
+## commands
+
+* Music
+* Moderation
+* Fun
+* Utility
+* More
+
 ## 💨 Run the projects
 Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/Cyan)
