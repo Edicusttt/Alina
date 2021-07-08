@@ -18,14 +18,6 @@ module.exports = async (client, message) => {
     .setTimestamp();
     client.channels.cache.get(`${client.config.logs}`).send(embed)
     
-  const guildids = client.guilds.cache.map((r) => r.id)
-        guildids.forEach(guildid => {
-            const vcids = db.get(`vc_${guildid}`)
-            if(!vcids) return;
-            const vc = client.channels.cache.get(vcids)
-            if(!vc) return;
-            vc.join();
-        })
     //Game
     let statuses = [`${client.prefix}play | ${client.prefix}help`, `Prefix : ${client.prefix}`];
     setInterval(function() {
