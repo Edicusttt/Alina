@@ -12,10 +12,10 @@ module.exports = {
 	aliases: ["setprefix"],
 	permissions: ["ADMINISTRATOR"],
 run: async (client, message, args) => {
-    
+   
     let PREFIX = await db.get(`prefix_${message.guild.id}`)
-    if(PREFIX === null) prefix = PREFIX;
-
+    if(PREFIX === null) PREFIX = client.prefix;
+   
     if(!args[0]) return message.channel.send(new MessageEmbed()
     .setColor(message.client.color)
     .setTitle(`Current Prefix: \`${prefix}\``)
