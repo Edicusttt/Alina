@@ -61,7 +61,7 @@ Cyan is an open source, fully customizable Discord bot that is constantly growin
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Cyan!
 
-## commands
+## 📨 Commands
 
 * Music
 * Moderation
