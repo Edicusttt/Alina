@@ -10,13 +10,6 @@ module.exports = async (client, message) => {
     console.log(`${client.user.username} online!`);
     console.log(`Ready on ${client.guilds.cache.size} servers, for a total of ${client.users.cache.size} users`);
     
-  const embed = new MessageEmbed()
-    .setDescription(`\`\`\`py\n[API] Logged in as ${client.user.username}, is now Online\n${client.guilds.cache.size.toLocaleString()}  Server's Connect\`\`\``)
-    .setThumbnail(client.user.displayAvatarURL())   
-    .setColor(`${client.config.EMBEDCOLOR}`)
-    .setTimestamp();
-    client.channels.cache.get(`${client.config.logs}`).send(embed)
-    
     //Game
     let statuses = [`${client.prefix}play | ${client.prefix}help`, `Prefix : ${client.prefix}`];
     setInterval(function() {
