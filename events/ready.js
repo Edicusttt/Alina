@@ -1,5 +1,4 @@
 const { MessageEmbed } = require('discord.js');
-const db = require('quick.db');
 const moment = require("moment");
 require("moment-duration-format");
 const os = require('os')
