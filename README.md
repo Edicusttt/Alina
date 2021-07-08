@@ -17,10 +17,8 @@
   <p align="center">
     Cyan a powerful Discord Bot
     <br />
-    <a href="https://proxity.ml/" target="_blank"><strong>» Explore the docs</strong></a>
     <br />
-    <br />
-    <a href="https://discord.com/oauth2/authorize?client_id=&841716414053351486scope=bot&permissions=8">Invite Cyan (INVITE)</a>
+    <a href="https://discord.com/oauth2/authorize?client_id=&841716414053351486scope=bot&permissions=8">Invite Cyan</a>
     ·
     <a href="https://github.com/brblacky/Cyan/issues">Report Bug</a>
     ·
@@ -28,34 +26,12 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
-## 🌀 About The Project
+## 🌀 About
 
-PBOT was born with the idea that it will restore order in your guild and protect attacks against your guild.
-
-<!-- ROADMAP -->
-
-## 🔸 Roadmap
-
-See the [open issues](https://github.com/brblacky/Cyan/issues) for a list of proposed features (and known issues).
+Cyan was born with the idea that it will restore order in your guild and protect attacks against your guild.
 
 <!-- CONTRIBUTING -->
 
