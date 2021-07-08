@@ -31,7 +31,7 @@ client.distube = new DisTube(client, {
 
 
 client.config = require("./config")
-client.prefix = process.env.PREFIX;
+client.prefix = PREFIX;
 client.owner = OWNERID;
 client.queue = new Map();
 client.aliases = new Collection();
