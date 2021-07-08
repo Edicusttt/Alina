@@ -41,7 +41,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 
 ## ⚙️ Configuration
 
-Copy or Rename `config.json.example` to `config.json` and fill out the values:
+fill out the values in: `config.json` 
 ```json
 {
     "TOKEN": "", 
@@ -60,26 +60,6 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 Cyan is an open source, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Also, you can join the official [Support Server](https://discord.gg/) for all questions, suggestions, and assistance!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Cyan!
-
-<!-- CONTRIBUTING -->
-
-## ✨ Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- CONTACT -->
-
-## 📞 Contact
-
-`TEAM`
-Blacky — [@blacky](https://twitter.com/Br_blacky)
-Venom — [@Venom](https://twitter.com/)
 
 ## 💨 Run the projects
 Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
