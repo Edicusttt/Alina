@@ -1,8 +1,7 @@
 const { Client, Collection, Intents, MessageEmbed } = require("discord.js");
 const { readdirSync } = require("fs");
 const db = require("quick.db");
-const { PREFIX, COOKIE, OWNERID, EMBEDCOLOR } = require("./config.json");
-const Cyan = process.env['TOKEN']
+const { TOEKN, PREFIX, COOKIE, OWNERID, EMBEDCOLOR } = require("./config.json");
 const DisTube = require('distube');
 const client = new Client({
     disableMentions: "everyone",
@@ -176,4 +175,4 @@ client.distube
 
 
 
-client.login(Cyan);
+client.login(TOKEN);
