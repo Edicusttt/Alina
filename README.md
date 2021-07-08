@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/brblacky/Cyan">
-    <img src="https://i.imgur.com/aHjHbZh.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://cdn.discordapp.com/attachments/841728122633715743/862788474653114388/20210708_174240.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Cyan Bot</h3>
@@ -18,7 +18,7 @@
     Cyan a powerful Discord Bot
     <br />
     <br />
-    <a href="https://discord.com/oauth2/authorize?client_id=&841716414053351486scope=bot&permissions=8">Invite Cyan</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot">Invite Cyan</a>
     ·
     <a href="https://github.com/brblacky/Cyan/issues">Report Bug</a>
     ·
@@ -26,12 +26,40 @@
   </p>
 </p>
 
+<!-- INSTALL -->
+## 🚀 Installation
+ You can add Cyan to your server with [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself.
+```
+git clone https://github.com/brblacky/Cyan.git
+```
+After cloning, run an
+```
+npm install
+```
+to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
+<!-- CONFIGURATION -->
+
+## ⚙️ Configuration
+
+Copy or Rename `config.json.example` to `config.json` and fill out the values:
+```json
+{
+    "TOKEN": "", 
+    "PREFIX": "*",
+    "COOKIE": "",
+    "OWNERID": "767393101241122826, 491577179495333903",
+    "cyan": "", 
+    "logs": "860915417572704276",
+    "EMBEDCOLOR": "#7F79DD"
+}
+```
 
 <!-- ABOUT THE PROJECT -->
 
 ## 🌀 About
+Cyan is an open source, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Also, you can join the official [Support Server](https://discord.gg/) for all questions, suggestions, and assistance!
 
-Cyan was born with the idea that it will restore order in your guild and protect attacks against your guild.
+If you liked this repository, feel free to leave a star ⭐ to help promote Cyan!
 
 <!-- CONTRIBUTING -->
 
@@ -45,21 +73,23 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<!-- CONTACT -->
+
+## 📞 Contact
+
+`TEAM`
+Blacky — [@blacky](https://twitter.com/Br_blacky)
+Venom — [@Venom](https://twitter.com/)
+
+## 💨 Run the projects
+Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/Cyan)
+
 <!-- LICENSE -->
 
 ## 🔐 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## 📞 Contact
-
-`TEAM` Blacky — [@Br_blacky](https://twitter.com/Br_blacky)
-| Venom — []()
-<br/>
-## 💨 Run the projects
-Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
 
 [version-shield]: https://img.shields.io/github/package-json/v/brblacky/Cyan?style=for-the-badge
 [version-url]: https://github.com/brblacky/Cyan
