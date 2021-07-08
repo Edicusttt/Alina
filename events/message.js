@@ -5,8 +5,8 @@ module.exports = async (client, message) => {
     if (message.author.bot) return;
     if (!message.guild) return;
     let PREFIX = await db.get(`prefix_${message.guild.id}`)
-    if(PREFIX === null) client.prefix = PREFIX;
-    
+    if(PREFIX === null) PREFIX = client.prefix;
+   
     if(message.content.match(new RegExp(`^<@!?${message.client.user.id}>( |)$`))) return message.channel.send(`Hello **${message.author.username}**, my prefix is \`${PREFIX}\`. Use \`${PREFIX}help\` to get the list of the commands!`);
 
     if (!message.content.startsWith(PREFIX)) return;
