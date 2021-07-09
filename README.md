@@ -55,11 +55,12 @@ fill out the values in: `config.json`
 <!-- ABOUT THE PROJECT -->
 
 ## 🌀 About
+
 Cyan is an open source, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot) link! Also, you can join the official [Support Server](https://discord.gg/) for all questions, suggestions, and assistance!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Cyan!
 
-## 📨 Commands
+## 🎭 Futures
 
 * Music
 * Moderation
@@ -70,6 +71,22 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Cyan
 ## 💨 Run the projects
 Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/Cyan)
+
+## Support Server
+
+[Support Server](https://discord.gg/DsKaXx84AK) - Cyan's Support Server Invite
+:----:
+
+## TEAMS ##
+<div align="left">
+<table>
+  <tr>
+     <td align="center"><a href="https://discord.com/users/491577179495333903"><img src="https://cdn.discordapp.com/avatars/491577179495333903/a_3f79ff04ec2e9fd68bb0f80401bd817a.gif?size=256&f=.gif?size=512" width="100px;" alt="Blacky"/><br /><sub><b>blacky</b></sub></a><br /><a href="https://discord.com/users/491577179495333903" title="Owner">👑</a></td>
+     <td align="center"><a href="https://discord.com/users/767393101241122826"><img src="https://cdn.discordapp.com/avatars/767393101241122826/09703f8931666b4fa31e9027356dd34b.webp?size=512" width="100px;" alt="Venom"/><br /><sub><b>Venom</b></sub></a><br /><a href="https://discord.com/users/767393101241122826" title="Owner">👑</a></td>
+     
+  </tr>
+</table>
+</div>
 
 <!-- LICENSE -->
 
