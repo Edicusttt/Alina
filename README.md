@@ -36,6 +36,8 @@ After cloning, run an
 ```
 npm install
 ```
+* Start the bot with `node index.js`
+
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
 <!-- CONFIGURATION -->
 
