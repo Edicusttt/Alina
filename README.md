@@ -74,12 +74,12 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Cyan
 Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Cyan)](https://repl.it/github/brblacky/Cyan)
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/Cyan)
 
-## Support Server
+## 💌 Support Server
 
 [Support Server](https://discord.gg/DsKaXx84AK) - Cyan's Support Server Invite
 :----:
 
-## TEAMS ##
+## 👥 TEAMS ##
 <div align="left">
 <table>
   <tr>
