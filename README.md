@@ -48,7 +48,6 @@ fill out the values in: `config.json`
     "PREFIX": "*",
     "COOKIE": "",
     "OWNERID": "767393101241122826, 491577179495333903",
-    "cyan": "", 
     "EMBEDCOLOR": "#7F79DD"
 }
 ```
