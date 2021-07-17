@@ -77,7 +77,7 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/brblacky/Alina)](https://r
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/alina)
 
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/DsKaXx84AK)](https://discord.gg/DsKaXx84AK)
+[![DiscordBanner](https://invidget.switchblade.xyz/uAVaeCP9VH)](https://discord.gg/uAVaeCP9VH)
 [Support Server](https://discord.gg/uAVaeCP9VH) - Alina's Support Server Invite
 :----:
 
