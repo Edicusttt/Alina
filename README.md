@@ -56,14 +56,14 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 ## ⚙️ Configuration
 
 Change `example.env` to `.env` and fill out the values in: `.env` 
-```
-The Discord Bot Token, get one at [here](https://discord.com/developers/applications)
-[REQUIRED]
-DISCORD_TOKEN= 
+```json
 
-The Mongo URI, if you want to use the database-reliant features
-[OPTIONAL]
-MONGO_URI=
+DISCORD_TOKEN=  `The Discord Bot Token, get one at https://discord.com/developers/applications`
+
+
+
+MONGO_URI= `The Mongo URI, if you want to use the database-reliant features`
+
 ```
 
 <!-- ABOUT THE PROJECT -->
