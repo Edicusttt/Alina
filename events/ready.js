@@ -24,15 +24,6 @@ module.exports = async client => {
     ].join('\n')
   };
      
-  const guildids = client.guilds.cache.map((r) => r.id)
-        guildids.forEach(guildid => {
-            const vcids = db.get(`vc_${guildid}`)
-            if(!vcids) return;
-            const vc = client.channels.cache.get(vcids)
-            if(!vc) return;
-            vc.join();
-        })
-   
 await client.channels.cache.get(client.config.channels.logs).createWebhook(bot, {
     avatar: client.user.displayAvatarURL({ format: 'png', dynamic: true, size: 128 })
   })
