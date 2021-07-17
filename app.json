@@ -14,7 +14,6 @@
       "description": "Your bot's bot token.",
       "required": true
     }
-  },
- "addons": ["discord.js", "@discordjs/opus"]
+  }
 }
 
