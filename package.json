@@ -1,22 +1,17 @@
 {
   "name": "alina",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Alina A Discord bot that  ranking, music, moderation and much more, all open source!",
   "main": "index.js",
-  "engines": {
-   "node": ">=14.0.0",
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "github:discordjs/opus",
     "animequotes": "^1.1.2",
     "bad-words": "^3.0.4",
-    "bufferutil": "^4.0.2",
     "canvas": "^2.8.0",
     "discord-buttons": "^4.0.0",
     "discord.js": "^12.5.3",
     "distube": "^2.8.15",
     "dotenv": "^10.0.0",
-    "erlpack": "^0.1.3",
-    "express": "^4.17.1",
     "hanime": "^1.2.1",
     "he": "^1.2.0",
     "html-to-markdown": "^1.0.0",
@@ -26,33 +21,35 @@
     "mal-scraper": "^2.11.3",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
-    "mongoose": "^5.13.2",
+    "mongoose": "^5.13.3",
     "nhentai-api": "^3.0.2",
     "node-fetch": "^2.6.1",
     "node-kitsu": "^1.1.1",
     "quick.db": "^7.1.3",
     "relevant-urban": "^2.0.0",
-    "require-text": "0.0.1",
+    "require-text": "^0.0.1",
     "wanakana": "^4.0.2"
   },
   "devDependencies": {},
+  "engines": {
+   "node": ">=14.0.0",
   "scripts": {
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brblacky/Alina.git"
-  },
-  "keywords": [
-    "discord",
-    "music-bot",
-    "moderation",
-    "fun",
-    "alina"
-  ],
-  "author": "Blacky#6618, Venom#9718",
-  "license": "ISC",
-  "bugs": "https://github.com/brblacky/Alina/issues",
-  "homepage": "https://github.com/brblacky/Alina#readme"
- }
+        "start": "node index.js"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brblacky/Alina.git"
+      },
+      "keywords": [
+        "discord",
+        "music-bot",
+        "moderation",
+        "fun",
+        "alina"
+      ],
+      "author": "Blacky#6618, Venom#9718",
+      "license": "MIT",
+      "bugs": "https://github.com/brblacky/Alina/issues",
+      "homepage": "https://github.com/brblacky/Alina#readme"
+  }  
 }
