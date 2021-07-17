@@ -33,6 +33,7 @@
 - [x] Music
 - [x] Moderation
 - [x] Fun
+- [x] Economy
 - [x] Utility
 - [x] More
 
@@ -55,14 +56,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 ## ⚙️ Configuration
 
 fill out the values in: `config.json` 
-```json
-{
-    "TOKEN": "", 
-    "PREFIX": "*",
-    "COOKIE": "",
-    "OWNERID": "767393101241122826, 491577179495333903",
-    "EMBEDCOLOR": "#7F79DD"
-}
+```
 ```
 
 <!-- ABOUT THE PROJECT -->
